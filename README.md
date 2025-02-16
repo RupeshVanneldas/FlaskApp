@@ -1,5 +1,8 @@
 # 3-Tier Flask Application on AWS with Terraform
 
+<img width="437" alt="image" src="https://github.com/user-attachments/assets/c993666b-3ee3-46bc-8ad2-1dbcb790c68a" />
+
+
 A production-ready three-tier web application deployed on AWS using Terraform, featuring:
 - Flask web application frontend
 - MySQL database backend
